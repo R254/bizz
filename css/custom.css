@@ -23,7 +23,7 @@ body{
 	padding: 0;
 	width: 100%;
 	height: 80px;
-	border-bottom: 1px solid rgba(255,255,255,0.5);
+	border-bottom: 1px solid rgba(255,255,255,0.8);
 }
 .logo{
 	letter-spacing: 1px;
@@ -53,6 +53,12 @@ body{
 	padding: 0 20px;
 }
 ul li:nth-child(5) a{
+color: #009f8b;
+border:1px solid #009f8b;
+padding: 10px 20px;
+border-radius: 4px;
+}
+ul li:nth-child(6) a{
 color: #009f8b;
 border:1px solid #009f8b;
 padding: 10px 20px;
